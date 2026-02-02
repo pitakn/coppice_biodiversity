@@ -22,10 +22,13 @@ Name: Katie Pita Institution: University of Waterloo Faculty: Environment Email:
 
 2.3 Relationship between files: 
 
-#2023biov.R and 2024biodiv.R contain first organizational code and computation of biodiversity metrics. These use .csv files biodiv_final_2023.csv and 2024_bd_clean.csv. 
-#biodiv_visualization.R contains code creating scatter and box plots and uses data in indices_no_ccf.csv. 
-#canopyclosure.R contains computation of canopy closure fraction from ImageJ pixel counts and uses data from canopyclosure.csv. 
-#modelling.R contains all regressions and GAMs undertaken in this study and uses data from indices_of_biodiversity_and_ccf_final.csv.
+2023biov.R and 2024biodiv.R contain first organizational code and computation of biodiversity metrics. These use .csv files biodiv_final_2023.csv and 2024_bd_clean.csv. 
+
+biodiv_visualization.R contains code creating scatter and box plots and uses data in indices_no_ccf.csv. 
+
+canopyclosure.R contains computation of canopy closure fraction from ImageJ pixel counts and uses data from canopyclosure.csv. 
+
+modelling.R contains all regressions and GAMs undertaken in this study and uses data from indices_of_biodiversity_and_ccf_final.csv.
 
 3.0 ACCESS, USAGE, SHARING, AND INTELLECTUAL PROPERTY INFORMATION
 
