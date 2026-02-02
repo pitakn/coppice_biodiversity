@@ -2,7 +2,7 @@ library(gridExtra)
 
 # boxplots for biodiversity indices in abandoned cants
 
-indices<-read.csv("indices_final.csv")
+indices<-read.csv("indices_no_ccf.csv")
 View(indices)
 
 indices$age<-as.numeric(indices$age)
@@ -182,3 +182,4 @@ boxplot(aban_sh_23$richness, ylim=range(c(1, 11)), col=c("#af8be8"),
         ylab="Species richness", xlab = "2023", las = 1)
 boxplot(aban_sh_24$richness, ylim=range(c(1,11)), col=c("#af8be8"),
         ylab="", xlab = "2024", las = 1)
+
