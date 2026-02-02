@@ -11,7 +11,7 @@ library(broom)
 library(dplyr)
 library(gridExtra)
 
-data<-read.csv("indices_of_biodiversity_final.csv")
+data<-read.csv("indices_of_biodiversity_and_ccf_final.csv")
 View(data)
 
 #filter out abandoned cants
@@ -402,4 +402,5 @@ concurvity(rich_age_ccf)
 plot(rich_age_ccf)
 
 par(mfrow = c(1,2))
+
 plot(rich_age_ccf, all.terms=TRUE)
