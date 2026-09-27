@@ -30,6 +30,10 @@ canopyclosure.R contains computation of canopy closure fraction from ImageJ pixe
 
 modelling.R contains all regressions and GAMs undertaken in this study and uses data from indices_of_biodiversity_and_ccf_final.csv.
 
+#REVISION EDITS
+
+canopyclosure_revisions.R and modelling_revisions.R include updated code in response to revisions made in September 2026, including revised images.
+
 3.0 ACCESS, USAGE, SHARING, AND INTELLECTUAL PROPERTY INFORMATION
 
 3.1 Data licenses and restrictions: All work is currently under peer-review. Not for reproduction or repurposing of any kind. This code is protected under a 1-year copyright embargo under K. Pita via the University of Waterloo (expires Dec. 5 2026).
