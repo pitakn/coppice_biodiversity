@@ -32,13 +32,13 @@ modelling.R contains all regressions and GAMs undertaken in this study and uses 
 
 3.0 ACCESS, USAGE, SHARING, AND INTELLECTUAL PROPERTY INFORMATION
 
-3.1 Data licenses and restrictions: All work is not yet peer-reviewed and is still in preparation. Not for reproduction or repurposing of any kind. This code is protected under a 1-year copyright embargo under K. Pita via the University of Waterloo (expires Dec. 5 2026).
+3.1 Data licenses and restrictions: All work is currently under peer-review. Not for reproduction or repurposing of any kind. This code is protected under a 1-year copyright embargo under K. Pita via the University of Waterloo (expires Dec. 5 2026).
 
 3.2 Related publications, outputs, and datasets: Woodland ecosystem services of the past and present in Herstmonceux and south England. K Pita. Thesis.
 
-3.2.1. Publications’ Data Retention Policy information: This work is currently unpublished and has not been peer-reviewed. Not for reproduction or reuse.
+3.2.1. Publications’ Data Retention Policy information: This work is currently unpublished. Not for reproduction or reuse.
 
-3.3 Recommended citation: Pita K. 2025. Rstudio raw code for manuscript "Traditional woodland management alters understory floral biodiversity in East Sussex, United Kingdom" Code in Pita K. Woodland ecosystem services of the past and present in Herstmonceux and south England [Thesis]. University of Waterloo: Waterloo (ON).
+3.3 Recommended citation: Pita K. 2026. Rstudio raw code for Pita K. Woodland ecosystem services of the past and present in Herstmonceux and south England [Thesis]. University of Waterloo: Waterloo (ON).
 
 4.0 METHODOLOGY
 
